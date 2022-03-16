@@ -9,5 +9,20 @@
 - JavaScript
 
 # Project Structure
+- Hello World
+    - Creating the first Hello World with JavaScript
 - Variables
+    - Introduction to variable in JavaScript.
+    - Differences of var, let and const.
+    - Methods and functions of the variables.
+        - .length
+        - .indexOf
+        - includes
+        - Math Class of JavaScript
+        - Increments and Decrements
+        - Concatenations
+        - Templates Strings
+        - Booleans
+- 
     
+# Requeriments
