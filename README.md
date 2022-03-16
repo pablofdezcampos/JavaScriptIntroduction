@@ -19,10 +19,15 @@
         - .indexOf
         - includes
         - Math Class of JavaScript
-        - Increments and Decrements
-        - Concatenations
-        - Templates Strings
-        - Booleans
-- 
+     - Increments and Decrements
+     - Concatenations
+     - Templates Strings
+     - Booleans
+- Objects in JavaScript
+    - Creation of an object
+    - Add and remove properties
+    - Destructuring
+    - .freeze, .seal
+    - Union of two objects
     
 # Requeriments
