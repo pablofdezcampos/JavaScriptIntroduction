@@ -1,0 +1,23 @@
+{
+    "employers": [{
+            "id": 1,
+            "name": "Pedro",
+            "job": "Web Programmer"
+        },
+        {
+            "id": 2,
+            "name": "Manuel",
+            "job": "App Programmer"
+        },
+        {
+            "id": 1,
+            "name": "Andrea",
+            "job": "Services"
+        },
+        {
+            "id": 3,
+            "name": "Susan",
+            "job": "UX / UI"
+        }
+    ]
+}
