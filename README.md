@@ -29,5 +29,17 @@
     - Destructuring
     - .freeze, .seal
     - Union of two objects
+- Arrays in JavaScript
+    - Creation of an array
+    - Creation of an array with objects
+    - How to run array with .forEach
+    - .push and .unshift
+    - .pop and .shift
+    - .slice
+    - Spread operators
+- Array Methods in JavaScript
+    - .some
+    - .reduce
+    - .filter
     
 # Requeriments
