@@ -32,7 +32,7 @@ getEmployers();
 
 //Fetch with aync await
 
-function getEmployers2() {
+async function getEmployers2() {
     const result = await fetch(url);
     const data = await result.json();
     console.log(data);
