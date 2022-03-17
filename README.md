@@ -75,6 +75,7 @@
 # Use 
 - The project is structured in folder with the relevant contents of the tutorial.
 - To see the result of a content, you must uncomment one of the section. Later, go to the console of a browser (to run the project you can use LifeServer for example).
+- To go to the console of a browser press f12 or control + shift + i, to see the inspector.
 - Example:
 
 ![image](https://user-images.githubusercontent.com/57486874/158759702-eb2465f9-1dcf-4c4d-a835-8a7c800cdcae.png)
