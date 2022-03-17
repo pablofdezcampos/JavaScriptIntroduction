@@ -73,3 +73,6 @@
 # Requeriments
 - To understand this introduction to JavaScript you must have a minimun knowledges of any other programming languaje.
 # Use 
+- The project is structured in folder with the relevant contents of the tutorial.
+- To see the result of a content, you must uncomment one of the section. Later, go to the console of a browser (to run the project you can use LifeServer for example).
+- Example:
